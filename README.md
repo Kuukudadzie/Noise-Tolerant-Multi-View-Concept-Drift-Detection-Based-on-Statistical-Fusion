@@ -2,8 +2,7 @@
 
 **Paper:** *Noise-Tolerant Multi-View Concept Drift Detection Based on Statistical Fusion*  
 **Authors:** Benjamin Mensah Dadzie · Piotr Porwik  
-**Affiliation:** Faculty of Science and Technology, University of Silesia in Katowice, Poland  
-**Venue:** Procedia Computer Science, 2025
+
 
 ---
 
